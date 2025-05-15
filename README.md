@@ -95,5 +95,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - your.email@example.com  
-Project Link: [https://github.com/your-username/bookstore](https://github.com/your-username/bookstore)
+Saiteja Lalam - lalamsaiteja.22.cse@anits.edu.in  
+Project Link:  https://github.com/Saiteja-323/bookstore_php.git
