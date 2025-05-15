@@ -1,0 +1,7 @@
+vendor/
+.env
+/uploaded_img/*
+/review_images/*
+node_modules/
+*.log
+
